@@ -13,6 +13,24 @@ Mateo Arminio
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
 of Lion.](https://static.vecteezy.com/system/resources/previews/023/288/164/non_2x/lion-cartoon-design-free-vector.jpg)
 
+### Code Examples
+
+```python
+def add(a, b):
+    return a + b
+    
+num1 = float(input("Enter number: "))
+num2 = float(input("Enter number: "))
+result = add(num1, num2)
+
+print(f"The sum of {num1} and {num2} is {result}")
+```
+### Lists
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## References
 
 [Github documentation](https://docs.github.com/en)
