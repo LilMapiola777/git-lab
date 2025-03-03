@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+header nav {
+    margin: 18.72px;
+    padding: 0px 10px;
+}
+
+#titleSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#titleSection {
+    color: white;
+    background-color: orange;
+}
+
+#subscribeSection {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#subscribeSection  form{
+    margin: 16px;
+}
+
+#imageSection {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+
