@@ -1,0 +1,57 @@
+header {
+    border: white 2px solid;
+    padding: 20px;
+    height: 10px;
+}
+
+#Proposito {
+    justify-content: center;
+    text-align: center;
+    overflow: auto;
+}
+
+h1 {
+    color: #0000ff;
+    border: black 3px solid;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#cuerpo { 
+    margin: 18.72px;
+    padding: 0px 10px;
+    justify-content: center;
+    text-align: center;
+    overflow: auto;
+}
+
+ul {
+    list-style: square;
+}
+
+nav {
+    border: orange 3px solid;
+}
+
+footer {
+    border: white 3px solid;
+    padding: 10px;
+}
+
+body {
+    border-right: red 3px solid;
+    border-left: red 3px solid;
+    border-top: black 3px solid;
+    border-bottom: black 3px solid;
+}
+
+footer p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#imagen {
+    background-image: url("https://concepto.de/wp-content/uploads/2019/05/leon-manada-crias-felino-e1559243119506.jpg");
+}
